@@ -12,7 +12,7 @@ Built with Python, Streamlit, Pandas, Plotly, and NLP-based text analysis.
 
 Add your deployed link here:
 
-https://your-app-url.streamlit.app
+https://chat-lytics-ai-ma6vwzhwlvtwpgs5hgczod.streamlit.app
 
 ---
 
