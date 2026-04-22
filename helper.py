@@ -1,4 +1,4 @@
-import st
+import streamlit as st
 from urlextract import URLExtract
 from wordcloud import WordCloud
 from collections import Counter
